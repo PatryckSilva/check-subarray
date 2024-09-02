@@ -1,8 +1,11 @@
 # Continuous Subarray Sum
 
-Código com o desafio leet code Continuous Subarray Sum, usado como teste técnico para a empresa Easy.
+### Código com o desafio leet code Continuous Subarray Sum, usado como teste técnico para a empresa Easy.
 
-Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
+<details>
+  <summary><b>Technical Info</b></summary>
+
+ Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
 
 A good subarray is a subarray where:
 
@@ -37,3 +40,4 @@ Constraints:
 0 <= nums[i] <= 109
 0 <= sum(nums[i]) <= 231 - 1
 1 <= k <= 231 - 1
+</details>
