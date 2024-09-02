@@ -39,8 +39,8 @@ function checkSubarraySum(nums: number[], k: number): boolean {
 
 const validKEqualsZero = checkSubarraySum([0, 0, 0, 0], 0)
 const notValidKEqualsZero = checkSubarraySum([1, 2, 3, 4], 0)
-const withValidSubarray = checkSubarraySum([23, 2, 4, 6, 7], 7)
-const withoutValidSubarray = checkSubarraySum([1, 2, 3, 4], 11)
+const withValidSubarray = checkSubarraySum([23,2,4,6,7], 7)
+const withoutValidSubarray = checkSubarraySum([23,2,6,4,7], 13)
 
 console.log(`valid subarray with k equals zero:`, validKEqualsZero)
 console.log(`not valid subarray with k equals zero:`, notValidKEqualsZero)
