@@ -3,7 +3,7 @@
 ### Código com o desafio leet code Continuous Subarray Sum, usado como teste técnico para a empresa Easy.
 
 <details>
-  <summary><b>Technical Info</b></summary>
+  <summary><b>Explicação e Regras</b></summary>
 
  Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
 
