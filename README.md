@@ -1,9 +1,11 @@
-# Continuous Subarray Sum
+# Continuous Subarray Sum <img src="https://skillicons.dev/icons?i=javascript,typescript" />
 
 ### Código com o desafio leet code Continuous Subarray Sum, usado como teste técnico para a empresa Easy.
 
+##### Feito com TypeScript/JavaScript 
+
 <details>
-  <summary><b>Explicação e Regras</b></summary>
+  <summary>Explicação e Regras</summary>
 
  Given an integer array nums and an integer k, return true if nums has a good subarray or false otherwise.
 
